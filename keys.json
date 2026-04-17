@@ -1,0 +1,18 @@
+{
+  "keys": [
+    {
+      "key": "KAPT-X11-VIP-2026",
+      "type": "premium",
+      "expiry": "20260417",
+      "banned": false,
+      "user": "user1"
+    },
+    {
+      "key": "BEGIE",
+      "type": "admin",
+      "expiry": "20991231",
+      "banned": false,
+      "user": "owner"
+    }
+  ]
+}
