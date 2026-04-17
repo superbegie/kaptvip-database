@@ -1,0 +1,14 @@
+{
+  "script_status": "online",
+  "maintenance": false,
+  "latest_version": "4.5",
+  "force_update": false,
+  "announcement": "Welcome to KaptVIP v4.5!",
+  "features": {
+    "radar": true,
+    "drone": true,
+    "grass": true,
+    "enemy_lag": true,
+    "fanny_damage": true
+  }
+}
